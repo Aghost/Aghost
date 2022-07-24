@@ -13,10 +13,13 @@
 
 ##### Languages:
 __Advanced__
+
 1. Ruby,
 2. Bash/Sh
 
+
 __Intermediate__
+
 3. C,
 4. C-Sharp,
 5. lua,
@@ -24,7 +27,9 @@ __Intermediate__
 7. Python,
 8. html/css/javascript
 
+
 __Beginner__
+
 9. Golang,
 10. C++,
 11. powershell
