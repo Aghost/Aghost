@@ -1,20 +1,15 @@
-## It is an acknowledged fact that we perceive errors in the work of others more readily than in our own. - Da Vinci
+#### `It is an acknowledged fact that we perceive errors in the work of others more readily than in our own.` - Da Vinci
 
-## You are what you'll do, not what you say you'll do. - Jung
+#### `You are what you'll do, not what you say you'll do.` - Jung
 
-## I am not what happened to me, i am what i chose to become. - Jung
+#### `I am not what happened to me, i am what i chose to become.` - Jung
 
-## Ask questions from your heart and you will be answered from the heart. - Native American proverb
+#### `Ask questions from your heart and you will be answered from the heart.` - Native American proverb
 
 ---
-
-I do Software Developing,
-  mostly back-end, databases (redis, mssql, postgres), parsers etc
-IT Security
-  Networking (nginx, pfsense, ipfire)
-  virtualization (xen, kvm/qemu, libvirt etc)
-Devops
-  Containerization (docker, lxd, kubernetes)
+# Hello
+## I do Software-Developing, IT Security and SysAdmin/Devops.
+### I like Virtualization(kvm), Containerization(docker/kubernetes etc), Redis, FAAS, MicroServices.
 
 #### Languages:
 - Advanced
