@@ -7,28 +7,25 @@
 #### `Ask questions from your heart and you will be answered from the heart.` - Native American proverb
 
 ---
-# Hello
-## I do Software-Developing, IT Security and SysAdmin/Devops.
-### I like Virtualization(kvm), Containerization(docker/kubernetes etc), Redis, FAAS, MicroServices.
+## Hello
+### I do Software-Developing, IT Security and SysAdmin/Devops.
+#### I like Virtualization(kvm), Containerization(docker/kubernetes etc), Redis, FAAS, MicroServices.
 
-#### Languages:
-- Advanced
-  {
-    Ruby,
-    Bash/Sh
+##### Languages:
+- __Advanced__ {
+    1. Ruby,
+    2. Bash/Sh
   },
-- Intermediate
-  {
-    C,
-    C-Sharp,
-    lua,
-    perl,
-    Python,
-    html/css/javascript
+- __Intermediate_ {
+    3. C,
+    4. C-Sharp,
+    5. lua,
+    6. perl,
+    7. Python,
+    8. html/css/javascript
   },
-- Beginner
-  {
-    Golang,
-    C++,
-    powershell
+- __Beginner__ {
+    9. Golang,
+    10. C++,
+    11. powershell
   }
