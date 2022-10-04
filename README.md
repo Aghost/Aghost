@@ -11,25 +11,21 @@
 ### I do Software-Developing, IT Security and SysAdmin/Devops.
 #### I like Virtualization(kvm), Containerization(docker/kubernetes etc), Redis, WireGuard, FAAS, MicroServices.
 
-##### Languages:
-__Advanced__
+##### Languages learnt (in order):
+__Advanced __
 
 1. Ruby,
-2. Bash/Sh
+2. C,
+3. Bash/Sh
+4. html/css/javascript
+5. Python,
+6. C-Sharp,
 
+__Intermediate (Learning)__
 
-__Intermediate__
-
-3. C,
-4. C-Sharp,
-5. lua,
-6. perl,
-7. Python,
-8. html/css/javascript
-
-
-__Beginner__
-
-9. Golang,
-10. C++,
-11. powershell
+7. C++,
+8. lua,
+9. perl,
+10. golang,
+11. v-lang,
+12. haskell
