@@ -12,7 +12,8 @@
 #### I like Virtualization(kvm), Containerization(docker/kubernetes etc), Redis, WireGuard, FAAS, MicroServices.
 
 ##### Languages learnt (in order):
-__Advanced __
+
+__Advanced__
 
 1. Ruby,
 2. C,
@@ -21,7 +22,7 @@ __Advanced __
 5. Python,
 6. C-Sharp,
 
-__Intermediate (Learning)__
+__Intermediate(Learning)__
 
 7. C++,
 8. lua,
